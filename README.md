@@ -1,2 +1,1 @@
-# 3300-portfolio
-Portfolio Project
+# 3300-portfolio-template
